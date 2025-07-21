@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**TarikkMagdy/TarikkMagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tarek Abu Ali 
 
-Here are some ideas to get you started:
+ Data Science Intern | AI & Machine Learning Enthusiast | Based in Egypt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+- I'm Tarek, a curious mind who loves making sense of data  
+- I enjoy building projects that actually *do something*  
+- Learning never stops — currently diving deeper into deep learning and system design  
+- Here to learn, build, and maybe even collaborate!mputing
+
+## Skills
+```bash
+Languages           : Python, SQL
+ML Frameworks       : Scikit-learn, XGBoost, LightGBM
+DL Frameworks       : TensorFlow, Keras, PyTorch
+Data Handling       : Pandas, NumPy, OpenCV
+Data Visualization  : Matplotlib, Seaborn
+Tools & IDEs        : Jupyter, Colab, VS Code, Git
+Version Control     : Git, GitHub
